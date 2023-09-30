@@ -12,6 +12,17 @@ This repository contains the backend code for the Bank Account Connection module
 - Plaid API
 - Firebase Firestore
 
+# Key Info
+
+**Plaid Integration:**
+   - Integrated Plaid Link into your frontend application to enable users to securely connect their bank accounts.
+   - Handled user authentication and stored Plaid access tokens securely.
+
+**Retrieve and Store Data:**
+   - Used Plaid API endpoints to retrieve users' financial data, such as account balances and transaction history.
+   - Routed the data into Firebase Firestore for storage.
+
+
 ## Project Structure
 
 The project is organized as follows:
@@ -31,20 +42,6 @@ The project is organized as follows:
 2. **Configuration:**
    - Update the Plaid API credentials in `budgetwise_backend/settings.py` using `PLAID_CLIENT_ID` and `PLAID_SECRET_ID`.
 
-3. **Install Dependencies:**
-   - Install Python dependencies using `pip install -r requirements.txt`.
-
-4. **Run the Server:**
-   - Start the Django development server using `python manage.py runserver`.
-
-5. **Plaid Integration:**
-   - Integrate Plaid Link into your frontend application to enable users to securely connect their bank accounts.
-   - Handle user authentication and store Plaid access tokens securely.
-
-6. **Retrieve and Store Data:**
-   - Use Plaid API endpoints to retrieve users' financial data, such as account balances and transaction history.
-   - Route the data into Firebase Firestore for storage.
-
 ## Project Usage
 
 - Access the application by running the Django development server.
@@ -60,19 +57,6 @@ The project is organized as follows:
 
 ![1](https://github.com/techchallenger7765/plaid-poc/assets/146533891/dc4210de-81bc-4d21-8064-9512ee6216e4)
 
-
-
-
-## Repository Structure
-.
-├── budgetwise_backend/
-│ ├── settings.py
-│ ├── urls.py
-│ └── ...
-├── requirements.txt
-├── manage.py
-├── Procfile
-└── README.md
 
 ## License
 Copyright free
