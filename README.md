@@ -3,7 +3,7 @@ Plaid Technical Challenge
 
 ## Project Overview
 
-This repository contains the backend code for the Bank Account Connection module of Budgetwise. The main purpose of this module is to allow users to connect their bank accounts securely using Plaid, retrieve their financial data, and store it in Firebase Firestore.
+This repository contains the backend code for the Bank Account Connection module. The main purpose of this module is to allow users to connect their bank accounts securely using Plaid, retrieve their financial data, and store it in Firebase Firestore.
 
 ## Technologies Used
 
