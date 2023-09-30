@@ -63,4 +63,4 @@ Copyright free
 
 ## Acknowledgments
 
-- Thanks to the team for the internship challenge.
+- Thanks for the challenge.
