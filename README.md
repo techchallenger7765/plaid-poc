@@ -49,13 +49,14 @@ The project is organized as follows:
 - The application retrieves and stores users' financial data in Firestore.
 
 ## Screenshots
-![3](https://github.com/techchallenger7765/plaid-poc/assets/146533891/841b7590-fc9b-4878-bd5e-37403d6de5b6)
 
-![4](https://github.com/techchallenger7765/plaid-poc/assets/146533891/6bec797b-93ed-4202-bfb6-565fc0afe756)
+![3](https://github.com/techchallenger7765/plaid-poc/assets/146533891/05d8935d-514e-41c8-8a13-14283520894f)
 
-![2](https://github.com/techchallenger7765/plaid-poc/assets/146533891/3f549191-c4cb-4f97-866a-6f259b08c22b)
+![4](https://github.com/techchallenger7765/plaid-poc/assets/146533891/41c4aaf6-38b9-4ae2-a1d2-36e2bfd64fde)
 
-![1](https://github.com/techchallenger7765/plaid-poc/assets/146533891/dc4210de-81bc-4d21-8064-9512ee6216e4)
+![2](https://github.com/techchallenger7765/plaid-poc/assets/146533891/10d4d697-013c-4361-8e70-101ed1ddebd7)
+
+![1](https://github.com/techchallenger7765/plaid-poc/assets/146533891/bf502a2d-2876-41c9-9ce0-4c615c3a9dc4)
 
 
 ## License
